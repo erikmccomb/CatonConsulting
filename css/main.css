@@ -165,7 +165,7 @@ main {
 }
 
 /* Slide 2 */
-#slide-2 .bcg {background-image:url('../img/transpo.jpg')}
+#slide-2 .bcg {background-image:url('../img/pallets.jpg')}
 #slide-2 .hsContent {
 	/* margin-left: -450px;
 	bottom: 200px;
@@ -173,7 +173,7 @@ main {
 }
 
 /* Slide 3 */
-#slide-3 .bcg {background-image:url('../img/pallets.jpg')}
+#slide-3 .bcg {background-image:url('../img/transpo.jpg')}
 #slide-3 .hsContent {
 	/* margin-left: -239px; */
 }
